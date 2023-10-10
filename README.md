@@ -1,2 +1,2 @@
 # Animation_SASS
-Simple animation 
+simple animation using only css/sass 
